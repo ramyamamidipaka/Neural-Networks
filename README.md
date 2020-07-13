@@ -7,3 +7,4 @@ I will be uploading notebooks as I study and understand in the same order
 Order as follows
  - NN-1
  - ML and DL
+ - CNN FASHION MNIST
