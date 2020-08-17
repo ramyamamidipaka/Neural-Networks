@@ -8,3 +8,4 @@ Order as follows
  - NN-1
  - ML and DL
  - CNN FASHION MNIST
+ - CIFAR 10
