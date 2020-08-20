@@ -9,3 +9,4 @@ Order as follows
  - ML and DL
  - CNN FASHION MNIST
  - CIFAR 10
+ - Autoregressive 
