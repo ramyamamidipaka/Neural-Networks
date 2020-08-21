@@ -10,3 +10,4 @@ Order as follows
  - CNN FASHION MNIST
  - CIFAR 10
  - Autoregressive 
+ - TF2.0 RNN Shapes- Implementing simpleRNN and hardcoding RNN
