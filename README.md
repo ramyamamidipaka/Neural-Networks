@@ -11,3 +11,4 @@ Order as follows
  - CIFAR 10
  - Autoregressive 
  - TF2.0 RNN Shapes- Implementing simpleRNN and hardcoding RNN
+ - Simple_CNN_for_NLP
