@@ -13,3 +13,4 @@ Order as follows
  - TF2.0 RNN Shapes- Implementing simpleRNN and hardcoding RNN
  - Simple_CNN_for_NLP
  - Sarcasm detection
+ - IMDB classification
