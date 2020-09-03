@@ -14,3 +14,4 @@ Order as follows
  - Simple_CNN_for_NLP
  - Sarcasm detection
  - IMDB classification
+ - Document Text classification
