@@ -15,4 +15,5 @@ Order as follows
  - Sarcasm detection
  - IMDB classification
  - Document Text classification
+ - text generation
  - Recommender system
